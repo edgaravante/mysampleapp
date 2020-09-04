@@ -253,6 +253,7 @@
    </text:sequence-decls>
    <text:p text:style-name="P1">Mi primer commit</text:p>
    <text:p text:style-name="P3">Mi segundo commit</text:p>
+   <text:p text:style-name="P5">Mi tercer commit</text:p>
   </office:text>
  </office:body>
 </office:document>
